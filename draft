@@ -1,0 +1,30 @@
+SSH:
+WSL
+Hidden files in Linux & Windows
+
+Tools & Env:
+cmd terminal, notepad, file explorer, browser w/github
+create dir @desktop
+? automate ^?
+
+CMD
+1. check 'wsl' @cmd -> notepad
+2. dir with options for hidden
+:: dir /?
+output to notepad
+3. 'explorer' with/out options
+4. start msedge https://github.com
+
+Powershel ISE:
+
+SSH:
+1. HOME folder before & after
+2. ssh user@host -> notepad -> Github
+3. zip .ssh -> Github (MyCompletedTasks)
+
+CMD->. !!HOME! do the same with powershell
+
+POWERSHELL:
+1. create,update,rename file/folder
+2. launch 'cmd', 'notepad', browser..
+3. save output in 'file'
